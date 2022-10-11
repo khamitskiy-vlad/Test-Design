@@ -1,0 +1,4 @@
+Email: null, keyboard layout (Ru), without @, only spaces, extra dots, without dots, registered user Email
+Email uppercase: yes, no
+Password (6-10 characters): null, 7-9 special symbols, 11 char, 5 char, 6 char, 10 char, 7-9 spaces
+Password uppercase: yes, no

@@ -1,0 +1,50 @@
+Email   Email uppercase Password (6-10 characters)      Password uppercase
+null    yes     5 char  yes
+without @       no      6 char  no
+keyboard layout (Ru)    yes     7-9 spaces      no
+without dots    no      null    yes
+keyboard layout (Ru)    no      6 char  yes
+extra dots      no      10 char yes
+without @       yes     10 char yes
+extra dots      no      5 char  no
+keyboard layout (Ru)    yes     5 char  yes
+only spaces     yes     11 char yes
+without dots    yes     6 char  no
+without @       no      5 char  no
+only spaces     no      7-9 special symbols     no
+extra dots      no      7-9 spaces      yes
+registered user Email   yes     10 char no
+null    no      6 char  no
+keyboard layout (Ru)    no      10 char no
+registered user Email   no      5 char  yes
+only spaces     yes     5 char  yes
+extra dots      yes     6 char  yes
+without dots    no      11 char no
+only spaces     yes     null    no
+keyboard layout (Ru)    yes     null    yes
+null    yes     7-9 spaces      no
+without dots    no      5 char  no
+without @       yes     7-9 spaces      yes
+null    yes     7-9 special symbols     yes
+without @       no      null    yes
+without @       yes     7-9 special symbols     yes
+extra dots      yes     11 char yes
+without @       no      11 char yes
+null    no      null    yes
+registered user Email   no      11 char no
+keyboard layout (Ru)    yes     11 char yes
+registered user Email   no      null    no
+only spaces     yes     6 char  no
+registered user Email   no      7-9 special symbols     yes
+only spaces     no      10 char no
+without dots    yes     7-9 spaces      yes
+null    no      11 char yes
+extra dots      yes     7-9 special symbols     no
+null    no      10 char yes
+only spaces     no      7-9 spaces      no
+extra dots      yes     null    yes
+without dots    no      10 char yes
+keyboard layout (Ru)    no      7-9 special symbols     yes
+registered user Email   yes     7-9 spaces      no
+without dots    no      7-9 special symbols     no
+registered user Email   yes     6 char  no

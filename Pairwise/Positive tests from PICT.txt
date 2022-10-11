@@ -1,0 +1,15 @@
+Email   Email uppercase Password (6-10 characters)      Password uppercase
+correct Email   no      11 char no
+correct Email   yes     11 char yes
+correct Email   no      7-9 special symbols     yes
+correct Email   no      null    yes
+correct Email   no      5 char  yes
+correct Email   yes     7-9 spaces      no
+correct Email   yes     10 char yes
+correct Email   no      7-9 spaces      yes
+correct Email   yes     6 char  no
+correct Email   yes     null    no
+correct Email   yes     5 char  no
+correct Email   yes     7-9 special symbols     no
+correct Email   no      10 char no
+correct Email   no      6 char  yes
